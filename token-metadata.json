@@ -1,0 +1,6 @@
+{
+  "name": "My Awesome Token",
+  "symbol": "MAT",
+  "description": "This is my first token on Solana blockchain",
+  "decimals": 9,
+}
